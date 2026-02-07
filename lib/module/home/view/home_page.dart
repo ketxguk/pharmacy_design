@@ -135,7 +135,7 @@ class HomePage extends StatelessWidget {
             scrollDirection: Axis.horizontal,
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 16),
-              child: Container(
+              child: SizedBox(
                 width: 400,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,

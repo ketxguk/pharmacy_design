@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 class SvgIcon {
   static const String bell = 'assets/svg/bell.svg';
   static const String cube = 'assets/svg/cube.svg';
